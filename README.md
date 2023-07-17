@@ -26,7 +26,7 @@ User Interface: A user-friendly interface is implemented using JavaFX, enabling 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repository
+   git clone https://github.com/rohankumar009/RainFall-Analysis.git
    ```
 2. Run the program:
 
