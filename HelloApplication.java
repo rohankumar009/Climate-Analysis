@@ -1,5 +1,3 @@
-// Written By: Kumar634
-
 package com.example.hw5_2081;
 import java.io.FileInputStream;
 import java.io.IOException;
