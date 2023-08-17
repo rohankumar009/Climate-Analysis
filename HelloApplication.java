@@ -1,4 +1,4 @@
-package com.example.hw5_2081;
+
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Scanner;
