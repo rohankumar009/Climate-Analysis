@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+Fixing Bugs/Updates
+
 The project aims to visualize rainfall data using Java and JavaFX. The data is sourced from a CSV file containing ~9000 lines of information collected during a specific month, August. The project's primary objectives are to section the data into multiple bins, create graphical representations based on the probability distribution at various points, and calculate the cumulative probability of the rainfall data.
 
 ### Key Features and Components:
